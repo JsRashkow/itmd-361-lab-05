@@ -1,0 +1,20 @@
+/*
+
+Author: Jeremy Rashkow
+Date Last Edited: 03/07/2018
+
+Filename: itmd-361-lab-05.css
+*/
+
+  body
+  {
+    background-image: url("images/page_background.jpg");
+  }
+
+  #banner
+    {
+      text-align: center;
+	  text-decoration: underline;
+	  color: rgb(175, 153, 174);
+    }
+  
